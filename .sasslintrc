@@ -1,0 +1,35 @@
+{
+ "options": {
+   "merge-default-rules": true
+ },
+ "files": {
+   "include": "sass/**/*.s+(a|c)ss"
+ },
+ "rules": {
+   "quotes": [1, {
+     "style": "double"
+   }],
+   "property-sort-order": [1, {
+     "order": "concentric",
+     "ignore-custom-properties": true
+   }],
+   "nesting-depth": 0,
+   "force-element-nesting": 0,
+   "force-pseudo-nesting": 0,
+   "force-attribute-nesting": 0,
+   "indentation": [2, {
+     "size": 2
+   }],
+   "no-qualifying-elements": {
+     "allow-element-with-attribute": true
+   },
+   "no-url-protocols": {
+    allow-protocol-relative-urls: true
+   },
+   "clean-import-paths": {
+     "filename-extension": true
+   },
+   "no-url-domains": 0,
+   "no-vendor-prefixes": 0
+ }
+}
