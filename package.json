@@ -2,6 +2,7 @@
   "name": "design-system-styles",
   "version": "1.0.0",
   "description": "Simple design system for utilising bootstrap",
+  "scss": "scss/design-system-styles.scss",
   "main": "index.js",
   "scripts": {
     "build": "gulp build",
