@@ -1,2 +1,2 @@
 # design-system-styles
-Simple design system for utilising bootstrap 
+Simple design system for using bootstrap 
